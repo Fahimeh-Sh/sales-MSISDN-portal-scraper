@@ -1,2 +1,2 @@
-# sales MSISDN sims-scraper
+# sales MSISDN portal-scraper
 Python
